@@ -4,5 +4,9 @@ body {
 }
 
 h1 {
-  color: blue;
+  color: red;
+}
+
+p {
+  font-size: 14px;
 }
