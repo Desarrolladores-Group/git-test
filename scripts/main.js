@@ -1,2 +1,2 @@
 var name = 'Nombre de usuario'
-var email = 'correo@gmail.com'
+var user_email = 'usuario_random@outlook.es'
